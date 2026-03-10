@@ -7,17 +7,7 @@ Gameplay Programmer | Unity Developer
 I am a gameplay programmer who primarily works with the Unity Engine.  
 I focus on building gameplay systems, player interaction mechanics, and narrative-driven experiences.
 
-## Specializations
-- Gameplay system design
-- Quest system implementation
-- Player interaction systems
-- AI navigation systems
-- Narrative integration using Ink
-- Git collaboration workflow
-
-## Technical Skills
-
-### Game Engine
+## Game Engine
 - Unity
 
 ## Development Approach
