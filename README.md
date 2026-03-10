@@ -1,14 +1,11 @@
 # Phattarapon Keaoputda
 Gameplay Programmer | Unity Developer
 
-> "Like a duckling learning to swim, I build games by diving in."
+> "Like a duckling learning to swim, I build games by diving in."🦆🦆🦆
 
 ## About Me
 I am a gameplay programmer who primarily works with the Unity Engine.  
 I focus on building gameplay systems, player interaction mechanics, and narrative-driven experiences.
-
-I enjoy designing modular systems that are easy to expand and maintain in a team environment.  
-I also have experience working with Git workflows and collaborating with other developers.
 
 ## Specializations
 - Gameplay system design
@@ -27,12 +24,12 @@ I also have experience working with Git workflows and collaborating with other d
 - C#
 - Object-Oriented Programming
 - SOLID principles
+- ScriptableObject-based architecture
 
 ### Tools & Technologies
 - Git / GitHub
 - Ink (Narrative scripting)
 - Unity NavMesh
-- ScriptableObject-based architecture
 
 ### Web
 - HTML
