@@ -74,3 +74,4 @@ https://trolledguy.github.io/
 
 ## Contact
 GitHub: https://github.com/Trolledguy
+Mail: pattsaphon.busscont@gmail.com
