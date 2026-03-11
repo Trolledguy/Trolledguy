@@ -1,8 +1,6 @@
 # Phattarapon Keaoputda
 Gameplay Programmer | Unity Developer
 
-> "Like a duckling learning to swim, I build games by diving in."🦆🦆🦆
-
 ## About Me
 I am a gameplay programmer who primarily works with the Unity Engine.  
 I focus on building gameplay systems, player interaction mechanics, and narrative-driven experiences.
@@ -13,10 +11,10 @@ I focus on building gameplay systems, player interaction mechanics, and narrativ
 ## Development Approach
 When developing gameplay systems I usually focus on:
 
-- Designing modular and reusable systems
-- Keeping game logic clean and maintainable
-- Building systems that can be expanded by designers
-- Maintaining clear version control practices in Git
+🦆 Designing modular and reusable systems
+🦆 Keeping game logic clean and maintainable
+🦆 Building systems that can be expanded by designers
+🦆 Maintaining clear version control practices in Git
 
 ## Contact
 GitHub: https://github.com/Trolledguy
