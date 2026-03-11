@@ -11,10 +11,10 @@ I focus on building gameplay systems, player interaction mechanics, and narrativ
 ## Development Approach
 When developing gameplay systems I usually focus on:
 
-🦆 Designing modular and reusable systems
-🦆 Keeping game logic clean and maintainable
-🦆 Building systems that can be expanded by designers
-🦆 Maintaining clear version control practices in Git
+ 🦆 Designing modular and reusable systems
+ 🦆 Keeping game logic clean and maintainable 
+ 🦆 Building systems that can be expanded by designers
+ 🦆 Maintaining clear version control practices in Git
 
 ## Contact
 GitHub: https://github.com/Trolledguy
